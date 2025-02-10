@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/JeffreyDevloo/coda-parser/actions/workflows/test.workflow.yml/badge.svg)](https://github.com/JeffreyDevloo/coda-parser/actions/workflows/test.workflow.yml)
+
 # coda-parser
 Java parser for Belgian CODA banking files.
 
